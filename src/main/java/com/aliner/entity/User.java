@@ -18,7 +18,7 @@ public class User {
 
     String password;
 
-    Date createTime;
+    Long createTime;
 
     Integer followCount;
 
@@ -26,7 +26,7 @@ public class User {
 
     String avatar;
 
-    String backgroundImagel;
+    String backgroundImage;
 
     String signature;
 
